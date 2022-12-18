@@ -1,2 +1,2 @@
-# galaxy-main-2
-## galaxy portfolio
+## galaxy-main-2
+### galaxy portfolio
